@@ -1,0 +1,23 @@
+{
+  "name": "1118workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emair2/1118workshop.git"
+  },
+  "author": "Yimei Zhu <www.emair-zhu.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emair2/1118workshop/issues"
+  },
+  "homepage": "https://github.com/Emair2/1118workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
